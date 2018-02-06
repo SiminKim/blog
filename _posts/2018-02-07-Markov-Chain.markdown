@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 마코프 체인 in MCMC - 커튼 뒤 숨은 강아지 찾기
+title: 마코프 체인 in MCMC 커튼 뒤 숨은 강아지 찾기
 date: 2017-09-10 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: dog-hidden.jpg # Add image post (optional)
