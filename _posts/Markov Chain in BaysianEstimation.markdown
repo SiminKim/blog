@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: MCMC에서 Markov Chain의 
