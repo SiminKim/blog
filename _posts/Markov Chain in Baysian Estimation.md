@@ -1,4 +1,12 @@
-﻿
+
+---
+layout: post
+title: MCMC에서 Markov Chain의 
+date: 2017-09-10 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: js-1.png # Add image post (optional)
+tags: [Js, Conference] # add tag
+---
 
 
 ### MCMC에서의 Markov Chain : 커튼 뒤에 숨은 강아지 찾기
